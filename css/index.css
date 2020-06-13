@@ -1,0 +1,19 @@
+.hidden.menu {
+  display: none;
+}
+
+.masthead.segment {
+  min-height: 700px;
+  padding: 1em 0em;
+}
+
+.header.item {
+  font-size: 1.2em;
+}
+
+.ui.jumbotron.inverted.header {
+  margin-top: 3em;
+  margin-bottom: 0em;
+  font-size: 4em;
+  font-weight: normal;
+}
